@@ -1,6 +1,6 @@
 ## Welcome to MicroSV.TK
 
-[MicroSV.TK](https://www.microsv.tk) is a website to provide a few free useful micro-services and tools.
+[MicroSV.TK](https://www.microsv.tk) is a website to provide a few free useful microservices and tools.
 
 ### Micro-Services
 - progressed.io: [https://progress.microsv.tk/](https://progress.microsv.tk/)
