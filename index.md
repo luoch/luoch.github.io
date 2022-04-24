@@ -3,8 +3,8 @@
 [MicroSV.TK](https://www.microsv.tk) is a website to provide a few free useful microservices and tools.
 
 ### Micro-Services
-- progressed.io: [https://progress.microsv.tk/](https://progress.microsv.tk/)
-- short: [https://short.microsv.tk/](https://short.microsv.tk/)
+- progressed.io: [https://progress.microsv.tk/](https://progress.microsv.tk/) (building)
+- short: [https://short.microsv.tk/](https://short.microsv.tk/) (building)
 
 
 ### Support or Contact
