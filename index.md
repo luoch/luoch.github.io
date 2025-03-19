@@ -1,15 +1,15 @@
-## Welcome to MicroSV.TK
+## Welcome to MicroSVC.xyz
 
-[MicroSV.TK](https://www.microsv.tk) is a website to provide a few free useful microservices and tools.
+[MicroSVC.xyz](https://www.microsvc.xyz) is a website to provide a few free useful microservices and tools.
 
 ### Micro-Services
 - progressed.io: [https://github.com/luoch/progress.go](https://github.com/luoch/progress.go)
-- short: [https://short.microsv.tk/](https://short.microsv.tk/) (building)
+- short: [https://short.microsvc.xyz/](https://short.microsvc.xyz/) (building)
 
 
 ### Support or Contact
 
-Please come to project's [Discussions](https://github.com/luoch/microsv.github.io/discussions) to:
+Please come to project's [Discussions](https://github.com/luoch/microsvc.github.io/discussions) to:
 - Ask questions you’re wondering about.
 - Share ideas.
 - Engage with other community members.
