@@ -4,6 +4,7 @@
 
 ### Micro-Services
 - progressed.io: [https://github.com/luoch/progress.go](https://github.com/luoch/progress.go)
+    - example: [https://progress.microsvc.xyz/bar/100?title=✅](https://progress.microsvc.xyz/bar/100?title=✅)
 - short: [https://short.microsvc.xyz/](https://short.microsvc.xyz/) (building)
 
 
